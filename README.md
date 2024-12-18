@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript example that demonstrates a common type error and its solution.  The `bug.ts` file showcases the type error caused by passing an incorrect data type to a function.  `bugSolution.ts` presents a solution to avoid this error by using type guards or by modifying the function signature to accept a more general type.
